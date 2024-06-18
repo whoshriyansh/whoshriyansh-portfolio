@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
+  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAm0lEQVR42mJ8//8/AzwwIOg/mx8rMP2XBoaAgjL4MAp8t1g4nItDjZQhSCtk4i9C0g6ORH/EXE+8Z08GhoCCMsYJkSCtjXx/RAhoCCMsIJUkK2PHUQIaAgjLBgmRILaMcRoi9C4g6Ioj/EfE9yZDdGBjoCDMsGZEsQIaAgjLCCVJCth4sBhoCCMsGJEgrY18f0QIaAgjLCCTxXCvAo5gIaAgjLCCTzXynITRAiSCYQIaAgjLCCVJCth8/0QIaAgjLBCctrcQaGgIIywhCRwIaAgjLBCYc6rx/RQIaAgjLCCVJCth7sBhoCCMsIJUkK2H5IaAgjLCCTtUyf8P9/AAAAABJRU5ErkJggg=="),
+    auto;
+}
